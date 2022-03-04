@@ -1,4 +1,4 @@
-- <img height="18" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt=""> Hi, I’m @umidjon-2231
+- <img height="18" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt=""> Hi, I’m Umidjon
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning Java
 
