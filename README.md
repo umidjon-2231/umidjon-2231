@@ -1,6 +1,5 @@
 - <img height="18" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt=""> Hi, I’m Umidjon
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning Java
+- I’m Fullstack developer
 
 <!---
 umidjon-2231/umidjon-2231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
