@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=umidjon-2231&style=flat-square&color=blue" alt="view"/>
+<img src="https://komarev.com/ghpvc/?username=umidjon-2231&style=flat-square&color=blue" alt="view"/><br/>
 - <img height="18" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt=""> Hi, I’m Umidjon
 - I’m Fullstack developer
 
